@@ -1,0 +1,20 @@
+{
+  "name": "greenpass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hassan",
+  "license": "ISC",
+  "dependencies": {
+    "base45": "^3.0.0",
+    "cbor": "^8.0.2",
+    "jpeg-js": "^0.4.3",
+    "jsqr": "^1.4.0",
+    "pako": "^2.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
